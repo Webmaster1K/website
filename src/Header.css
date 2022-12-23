@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background: left / cover url('https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700049868.jpg');
+    margin: 0;
+}
+a.logo, h2 {
+    text-shadow: #000 2px 2px 0.2rem;
+    color: #00ffb3;
+    font: bold calc(1em + 2 * (100vw - 120px) / 100) 'Dancing Script', fantasy;
+    text-decoration: none;
+}
